@@ -56,6 +56,10 @@ The dashboard provides a comprehensive view of recruitment data, enabling users 
     
   - **Bar Charts**: Comparison of recruits by position and nationality.
  
+## Limitations
+
+I had to remove all null values from expected and PRT salary because they would have affected the accuracy of my conclusions from the analysis.
+ 
 ## Data Source
 The dataset used for this analysis was obtained from a previous internship.
  
