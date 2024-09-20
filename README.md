@@ -30,9 +30,13 @@ The dashboard provides a comprehensive view of recruitment data, enabling users 
 ### 2. Data Distribution
 - **Age Distribution**: 
   - Most candidates fall within the age range of 25-35, with a noticeable decline in recruits over 40.
-    
+    ![recru](https://github.com/user-attachments/assets/21fbb69d-1530-42bd-896e-bac947f6f7ee)
+
 - **Salary Distribution**: 
   - The salary distribution shows a right skew, indicating a few high earners compared to the majority.
+    ![recru2](https://github.com/user-attachments/assets/876d2771-27d5-4917-9f5f-b1df0131942f)
+
+    
  
 ### 3. Data Distribution
 - **Age Distribution**: 
